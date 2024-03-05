@@ -1,0 +1,38 @@
+code with harry primium course --https://www.codewithharry.com/videos/
+
+
+
+h1-headline
+
+p1--paragraph
+
+lorem300--for generating words
+
+hr--creting lines
+
+ctrl + / --- used for create comment
+
+a ---tag use for link path(attributes like a,id , this etc)
+
+view toggle word wrap -- use for horizonal lines (settings -command)
+
+img----used for adding imgaes(put the image link in it)
+
+bold italic and underline tags
+b--bold
+i--italic
+u--underline
+
+big ---for create big words
+small--for create small words
+
+tags-
+width---
+height---
+  
+ol -- ordered list
+ul -- unorder list
+
+linked css ---- <style src="./style.css"></style>
+
+html arrows- https://www.w3schools.com/charsets/ref_utf_arrows.asp
